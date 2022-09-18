@@ -1,16 +1,26 @@
 # stylish_watch
 
-A new Flutter project.
+A stylish watch Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Before cloning repository make sure your flutter set up is ready.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I face some difficulty to build the actual logic of the timer.
+I used NumberPicker library to pick a number for timer.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+documentation - 
+https://pub.dev/packages/numberpicker
+https://pub.dev/packages/numberpicker/install
+
+Stapwatch provides a specific library therefor it is not too difficult to implement.
+
+Following are some picture of this app.
+
+![watch pic 2](https://user-images.githubusercontent.com/99542409/190926002-a9289326-05c7-4342-acdf-491ce1fa4546.jpg)
+![watch pic 1](https://user-images.githubusercontent.com/99542409/190925956-12f804bd-ac91-449f-a8e7-56c628265de1.jpg)
+
+
+
